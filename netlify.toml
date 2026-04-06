@@ -1,3 +1,0 @@
-[build]
-  command = "pnpm install --no-frozen-lockfile && npx next build"
-  publish = ".next"
